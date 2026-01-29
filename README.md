@@ -1,4 +1,4 @@
-✨ About Me
+#✨ About Me
 
 🌱 Hi, I’m Gwy — a BS Information Technology student with a growing interest in data engineering and data analysis.
 📊 I enjoy working with data, organizing databases, and learning how information can be transformed into meaningful insights.
