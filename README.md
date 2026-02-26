@@ -1,5 +1,5 @@
 # ✨ About Me
-🌱 Hi, I’m Gwy — a BS Information Technology student with a growing interest in data engineering and data analysis.<br>📊 I enjoy working with data, organizing databases, and learning how information can be transformed into meaningful insights.<br>💻 Currently exploring SQL, backend systems, and data workflows through academic and personal projects.<br>🚀 Learning at my own pace and building skills one dataset at a time.
+🌱 Hi, I’m Gwy — a BS Information Technology student with a growing interest in data engineering, data analysis and Quality Assurance.<br>📊 I enjoy working with data, organizing databases, and learning how information can be transformed into meaningful insights.<br>💻 Currently exploring SQL, manual testing, automation testing, and data workflows through academic and personal projects.<br>🚀 Learning at my own pace and building skills one dataset at a time.
 
 # 💻 Tech Stack:
 
